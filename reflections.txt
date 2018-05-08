@@ -8,4 +8,4 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 Your response goes here!
 
-I already knew HTML but it was fun to review some concepts and learn another ones. I did not know about the <sub> and <sup> tags.
+I already knew HTML but it was fun to review some concepts and learn another ones. I did not know about the <sub> and <sup> tags. It was not difficult because I could use w3schools as reference.
